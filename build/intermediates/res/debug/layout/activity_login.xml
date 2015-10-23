@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/bac"
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="50dp"
+        android:text="@string/welcome"
+        android:textSize="32sp" />
+
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical">
+
+        <EditText
+            android:id="@+id/userid"
+            android:layout_width="300dp"
+            android:layout_height="30dp"
+            android:layout_centerHorizontal="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginTop="60dp"
+            android:background="@color/white"
+            android:hint="@string/idremind"
+            android:maxLength="10"
+            android:textColor="@color/black"
+            android:textSize="22sp" />
+
+        <EditText
+            android:id="@+id/userpwd"
+            android:layout_width="300dp"
+            android:layout_height="30dp"
+            android:layout_centerHorizontal="true"
+            android:background="@android:color/white"
+            android:hint="@string/pwdremind"
+            android:inputType="textPassword"
+            android:maxLength="20"
+            android:textColor="@android:color/black"
+            android:textSize="22sp"
+            android:layout_marginTop="120dp" />
+
+        <Button
+            android:id="@+id/loginBtn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/logintext"
+            android:textColor="@color/black"
+            android:textSize="22sp"
+            android:layout_alignTop="@+id/registBtn"
+            android:layout_alignLeft="@+id/userpwd" />
+
+        <Button
+            android:id="@+id/registBtn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/registertext"
+            android:textColor="@color/black"
+            android:textSize="22sp"
+            android:layout_alignParentBottom="true"
+            android:layout_alignRight="@+id/userpwd"
+            android:layout_marginBottom="120dp" />
+    </RelativeLayout>
+
+</LinearLayout><!-- From: file:/Users/aqi/work/GpsApp/res/layout/activity_login.xml -->

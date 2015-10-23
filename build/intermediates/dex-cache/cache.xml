@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/aqi/work/GpsApp/libs/commons-lang-2.3.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="0eecdac8c86bc84b4bdfc24371ba8c785a1fc552">
+        <dex dex="/Users/aqi/work/GpsApp/build/intermediates/pre-dexed/debug/commons-lang-2.3-e5293ba16c49daa3ea2f601c525c98f1d391a079.jar" />
+    </item>
+    <item
+        jar="/Users/aqi/work/GpsApp/libs/jackson-databind-2.2.3.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="03ae380888029daefb91d3ecdca3a37d8cb92bc9">
+        <dex dex="/Users/aqi/work/GpsApp/build/intermediates/pre-dexed/debug/jackson-databind-2.2.3-c4783a90ebecc5050b8fa82b02ec29480f8fd26d.jar" />
+    </item>
+    <item
+        jar="/Users/aqi/work/GpsApp/libs/commons-logging-4.0.6.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="bbc4152c1360f01330020eca178d101557beb39d">
+        <dex dex="/Users/aqi/work/GpsApp/build/intermediates/pre-dexed/debug/commons-logging-4.0.6-a20d30a436973bc6961ef4a494cc3b511c200ed0.jar" />
+    </item>
+    <item
+        jar="/Users/aqi/work/GpsApp/libs/android-support-v4.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="5896b0a4e377ac4242eb2bc785220c1c4fc052f4">
+        <dex dex="/Users/aqi/work/GpsApp/build/intermediates/pre-dexed/debug/android-support-v4-44ac39a514a86f104bd5595facce6b5e72ea8b5e.jar" />
+    </item>
+    <item
+        jar="/Users/aqi/work/GpsApp/libs/jdom.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="a2ac1cd690ab4c80defe7f9bce14d35934c35cec">
+        <dex dex="/Users/aqi/work/GpsApp/build/intermediates/pre-dexed/debug/jdom-72fe7cdcba9fa01ce9bad994a5248ef29a42a101.jar" />
+    </item>
+    <item
+        jar="/Users/aqi/work/GpsApp/libs/jackson-core-2.2.3.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="1a0113da2cab5f4c216b4e5e7c1dbfaa67087e14">
+        <dex dex="/Users/aqi/work/GpsApp/build/intermediates/pre-dexed/debug/jackson-core-2.2.3-d34afbe9be76472e9321831fab425f3f78edeedf.jar" />
+    </item>
+    <item
+        jar="/Users/aqi/work/GpsApp/libs/commons-collections-3.2.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="f951934aa5ae5a88d7e6dfaa6d32307d834a88be">
+        <dex dex="/Users/aqi/work/GpsApp/build/intermediates/pre-dexed/debug/commons-collections-3.2-cc853a5af12d8568636b4d93e5b1ec69948a712e.jar" />
+    </item>
+    <item
+        jar="/Users/aqi/work/GpsApp/libs/achartengine-0.7.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="f51933deafdd1ffc8f3a2d7214260f124dd10af6">
+        <dex dex="/Users/aqi/work/GpsApp/build/intermediates/pre-dexed/debug/achartengine-0.7.0-617d071031077fa5e15435290b635a2607878a9e.jar" />
+    </item>
+    <item
+        jar="/Users/aqi/work/GpsApp/libs/commons-configuration-1.5.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="d891c003b41adc63ab99e5f697e04d633568965a">
+        <dex dex="/Users/aqi/work/GpsApp/build/intermediates/pre-dexed/debug/commons-configuration-1.5-3eb1a538ecf2a435a57102527d45e954eeaa91cd.jar" />
+    </item>
+    <item
+        jar="/Users/aqi/work/GpsApp/libs/jackson-annotations-2.2.3.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="0527fece4f23a457070a36c371a26d6c0208e1c3">
+        <dex dex="/Users/aqi/work/GpsApp/build/intermediates/pre-dexed/debug/jackson-annotations-2.2.3-29c618e462f5c876037bab365c121a55cd19bba7.jar" />
+    </item>
+    <item
+        jar="/Users/aqi/work/GpsApp/libs/BaiduLBS_Android.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="c9036494140151304201f22a65b74ae398a0cddf">
+        <dex dex="/Users/aqi/work/GpsApp/build/intermediates/pre-dexed/debug/BaiduLBS_Android-cbdadb9fcb99cc2815a11d48cc4084f7b34d9b6f.jar" />
+    </item>
+
+</items>

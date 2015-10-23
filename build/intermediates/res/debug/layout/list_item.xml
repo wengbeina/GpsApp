@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/liftid"
+        android:layout_width="80dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical"
+        android:textColor="@android:color/black"
+        android:textSize="15sp"
+        android:gravity="center" />
+
+    <TextView
+        android:id="@+id/line1"
+        android:layout_width="1dp"
+        android:layout_height="50dp"
+        android:layout_toRightOf="@+id/liftid"
+        android:background="@android:color/black" />
+
+    <TextView
+        android:id="@+id/unusualtime"
+        android:layout_width="160dp"
+        android:layout_height="wrap_content"
+        android:textColor="@android:color/black"
+        android:textSize="15sp"
+        android:layout_toRightOf="@+id/line1"
+        android:gravity="center" />
+
+    <TextView
+        android:id="@+id/line4"
+        android:layout_width="1dp"
+        android:layout_height="50dp"
+        android:layout_toRightOf="@+id/unusualtime"
+        android:background="@android:color/black" />
+
+    <Button
+        android:id="@+id/deal"
+        android:layout_width="100dp"
+        android:layout_height="50dp"
+        android:layout_toRightOf="@+id/line4"
+        android:text="@string/view_details"
+        android:textColor="@color/black"
+        android:textSize="16sp" />
+
+</RelativeLayout>
+<!-- From: file:/Users/aqi/work/GpsApp/res/layout/list_item.xml -->

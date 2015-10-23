@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/Users/aqi/work/GpsApp/res/values-en/string.xml -->
+    <eat-comment/>
+    <string name="action_settings">Settings</string>
+    <string name="app_name">Elevator Maintenance Tracking System</string>
+    <string name="appname">Elevator Maintenance Tracking System</string>
+    <string name="count">Alarming Number:</string>
+    <string name="current">Current</string>
+    <string name="data_switch">Data Transmission:</string>
+    <string name="deal">Alarm Processing</string>
+    <string name="findpwdtext">Forget password？</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="idremind">UserName(No more than 10)</string>
+    <string name="lat_long">Latitude and Longitude：</string>
+    <string name="liftaddress">address：</string>
+    <string name="liftid">Lift id：</string>
+    <string name="liftname">Lift name：</string>
+    <string name="logintext">Login</string>
+    <string name="position">Current Position:</string>
+    <string name="pwdremind">Password</string>
+    <string name="refresh">Refresh</string>
+    <string name="registertext">Register</string>
+    <string name="resettext">Reset</string>
+    <string name="time">Alarm time：</string>
+    <string name="title_detail">Details</string>
+    <string name="title_lift">Lift</string>
+    <string name="title_time">Alarm Time</string>
+    <string name="total">Total：</string>
+    <string name="view_details">Details</string>
+    <string name="welcome">Welcome to the elevator maintenance tracking system</string>
+</resources>
